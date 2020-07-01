@@ -1,0 +1,9 @@
+
+2301 Prohibit inheritance
+
+Disallow inheritance from the Listener class.
+Requirements:
+1. The Listener class must be created inside the Solution class.
+2. The Listener class must be public.
+3. The Listener class must be static.
+4. The ability to become a descendant of the Listener class must be prohibited.
